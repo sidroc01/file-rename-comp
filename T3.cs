@@ -1,4 +1,4 @@
-    public class t1
+    public class t3
     {
 		public TypeMap FindTypeMap(object source, object destination, Type sourceType, Type destinationType, string profileName)
 		{
